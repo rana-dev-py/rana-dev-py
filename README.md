@@ -43,7 +43,7 @@ I also have a solid background in **concurrent programming**. Welcome to my GitH
 - **Real-Time Applications**
 - **Backend Development**
 - **Concurrent Programming**
-- **Phone Calling/message , Mail service**
+- **Phone Calling/Message , Mail service**
 
 ## 🛠️ Projects
 
