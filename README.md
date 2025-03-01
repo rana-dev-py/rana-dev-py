@@ -91,11 +91,10 @@ I also have a solid background in **concurrent programming**. Welcome to my GitH
 
 
 
-## 📫 How to reach me
-
-- **Email:** pythondeveloper273@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/anas-rana-7313b124a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app- - **WhatsApp:** [Click to Chat](https://wa.me/+923471005185)
-
+## 📫 **How to Reach Me**
+- **Email:** [pythondeveloper273@gmail.com](mailto:pythondeveloper273@gmail.com)
+- **LinkedIn:** [Anas Rana](https://www.linkedin.com/in/anas-rana-7313b124a)
+- **WhatsApp:** [Click to Chat](https://wa.me/yourphonenumber)
 
 ## 🌱 Currently Learning
 - **Advanced Agentic AI Architectures**
