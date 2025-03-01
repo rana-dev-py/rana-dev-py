@@ -4,10 +4,40 @@ I am a passionate developer with extensive experience in Generative AI and Agent
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python
-- **Frameworks & Libraries:** FastAPI, Flask
-- **Tools & Platforms:** Git, Docker, AWS, Heroku
-- **Specializations:** Generative AI, Agentic AI, Natural Language Processing (NLP), Real-Time Applications, Backend Development, Concurrent Programming
+### 🖥️ **Languages**
+- **Python**, **C++**
+
+### 🌐 **Web Frameworks**
+- **Flask**, **FastAPI**
+
+### 🛠️ **Developer Tools**
+- **GitHub**, **Docker**, **Google Cloud Platform**, **VS Code**, **Visual Studio**, **PyCharm**
+
+### 📚 **Libraries**
+- **Pandas**, **NumPy**, **Matplotlib**, **Pytorch**
+
+### 🤖 **Agentic Libraries**
+- **Custom Logics**, **langchain**, **CrewAI**
+
+### 🧠 **LLM Libraries**
+- **OpenAI**, **Ollama**, **Huggingface**
+
+### 🏗️ **Model Architectures**
+- **NN**, **CNN**, **RNN**, **Transformer**, **YOLO**
+
+### 🎙️ **Speech Recognition & Voice Synthesis Platforms**
+- **Deepgram**, **Google Speech-to-Text**, **ElevenLabs**, **Google Text-to-Speech**, **Azure Speech Services**
+
+### 📞 **Phone Service Libraries**
+- **Twilio**
+
+## 🚀 **Specializations**
+- **Generative AI**
+- **Agentic AI**
+- **Natural Language Processing (NLP)**
+- **Real-Time Applications**
+- **Backend Development**
+- **Concurrent Programming**
 
 ## 🛠️ Projects
 
