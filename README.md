@@ -1,6 +1,9 @@
 # Hi there, I'm Anas 👋
 
-I am a passionate developer with extensive experience in Generative AI and Agentic AI. My work spans across Generative AI, Agentic AI, Natural Language Processing (NLP), real-time applications, and backend development. I also have a solid background in concurrent programming. Welcome to my GitHub profile!
+I am a passionate developer with extensive experience in **Generative AI** and **Agentic AI**.  
+My work spans across **Natural Language Processing (NLP)**, **real-time applications**, and **backend development**.  
+I also have a solid background in **concurrent programming**. Welcome to my GitHub profile!  
+
 
 ## 🔧 Technologies & Tools
 
