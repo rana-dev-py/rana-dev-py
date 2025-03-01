@@ -35,6 +35,7 @@ I also have a solid background in **concurrent programming**. Welcome to my GitH
 - **Twilio**
 
 ## 🚀 **Specializations**
+- **Built AI agents for workflow automation with LLM-driven decision-making**
 - **Generative AI**
 - **Agentic AI**
 - **Natural Language Processing (NLP)**
@@ -43,6 +44,7 @@ I also have a solid background in **concurrent programming**. Welcome to my GitH
 - **Concurrent Programming**
 
 ## 🛠️ Projects
+
 
 ### Project 1: Advanced Text-based Chatbot
 - **Description:** A sophisticated text-based chatbot capable of understanding and responding to user queries using NLP techniques.
