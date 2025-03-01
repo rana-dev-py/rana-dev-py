@@ -37,11 +37,13 @@ I also have a solid background in **concurrent programming**. Welcome to my GitH
 ## 🚀 **Specializations**
 - **Built AI agents for workflow automation with LLM-driven decision-making**
 - **Generative AI**
+- **chatbot development**
 - **Agentic AI**
 - **Natural Language Processing (NLP)**
 - **Real-Time Applications**
 - **Backend Development**
 - **Concurrent Programming**
+- **Phone Calling/message , Mail service**
 
 ## 🛠️ Projects
 
