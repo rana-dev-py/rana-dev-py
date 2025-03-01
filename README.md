@@ -97,9 +97,10 @@ I also have a solid background in **concurrent programming**. Welcome to my GitH
 - **LinkedIn:** https://www.linkedin.com/in/anas-rana-7313b124a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ## 🌱 Currently Learning
-
-- Advanced techniques in Generative AI
-- Enhancing concurrency models for scalable applications
+- **Advanced Agentic AI Architectures**
+- **Multi-Agent Systems & Collaborative AI**
+- **Cutting-edge LLM Applications**
+- **Optimization Techniques for Real-Time AI**
 
 ## 💬 Ask me about
 - Generative AI, Agentic AI, NLP, Real-time applications, and Backend development 
