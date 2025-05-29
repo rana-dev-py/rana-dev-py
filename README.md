@@ -44,6 +44,9 @@ I also have a solid background in **concurrent programming**. Welcome to my GitH
 - **Backend Development**
 - **Concurrent Programming**
 - **Phone Calling/Message , Mail service**
+-  **Appointment booking by Phone Calling/Message , Mail service**
+-  **Lead generation by Phone Calling/Message , Mail service**
+
 
 ## 🛠️ Projects
 
